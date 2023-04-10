@@ -49,7 +49,7 @@ PrefsVaultGUID=
 PrefsRevisionGUID=
 
 [Document1]
-DocumentPath=bdk_pl_power_connector.SchDoc
+DocumentPath=brс_pl_power_adapter.SchDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -66,7 +66,7 @@ GenerateClassCluster=0
 DocumentUniqueId=KSADMQYD
 
 [Document2]
-DocumentPath=bdk_pl_power_connector.PcbDoc
+DocumentPath=brс_pl_power_adapter.PcbDoc
 AnnotationEnabled=1
 AnnotateStartValue=1
 AnnotationIndexControlEnabled=0
@@ -82,25 +82,42 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=CAATXTAD
 
-[Parameter1]
-Name=GlobalProjectRevision
-Value=1.0
+[Document3]
+DocumentPath=output_brc_pl_power_adapter.OutJob
+AnnotationEnabled=1
+AnnotateStartValue=1
+AnnotationIndexControlEnabled=0
+AnnotateSuffix=
+AnnotateScope=All
+AnnotateOrder=-1
+DoLibraryUpdate=1
+DoDatabaseUpdate=1
+ClassGenCCAutoEnabled=1
+ClassGenCCAutoRoomEnabled=0
+ClassGenNCAutoScope=None
+DItemRevisionGUID=
+GenerateClassCluster=0
+DocumentUniqueId=
 
-[Parameter2]
+[Parameter1]
 Name=Утвердил
 Value=Прокопьев
 
-[Parameter3]
+[Parameter2]
 Name=Разработал
 Value=Шигаев
 
-[Parameter4]
+[Parameter3]
 Name=Проверил
 Value=Стюф
 
-[Parameter5]
+[Parameter4]
 Name=oraganization
 Value=НГУ
+
+[Parameter5]
+Name=GlobalProjectRevision
+Value=1.0
 
 [Parameter6]
 Name=GlobalProjectNumber
@@ -108,7 +125,7 @@ Value=ЮМП ...
 
 [Parameter7]
 Name=GlobalProjectName
-Value=БДК: Соединитель питания
+Value=Адаптер питания БРК-ПН
 
 [Configuration1]
 Name=Sources

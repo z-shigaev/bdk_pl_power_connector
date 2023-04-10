@@ -1,0 +1,15 @@
+Added Component: Designator=X2(MOLEX-PB-8-R)
+Add component (AddParameter): Name = "Назначение"; Value = "MOLEX PicoBlade 8-pin to board"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "MOLEX-PB-8-R"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PL_POWER_CH3 Pin=X2-1
+Added Pin To Net: NetName=PL_POWER_CH3 Pin=X2-2
+Added Pin To Net: NetName=OPT_GND Pin=X2-3
+Added Pin To Net: NetName=OPT_GND Pin=X2-4
+Added Pin To Net: NetName=PL_POWER_CH4 Pin=X2-5
+Added Pin To Net: NetName=PL_POWER_CH4 Pin=X2-6
+Added Pin To Net: NetName=OPT_GND Pin=X2-7
+Added Pin To Net: NetName=OPT_GND Pin=X2-8
+Added Pin To Net: NetName=GND Pin=X2-MP
+Added Pin To Net: NetName=GND Pin=X2-MP
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component X2 MOLEX-PB-8
