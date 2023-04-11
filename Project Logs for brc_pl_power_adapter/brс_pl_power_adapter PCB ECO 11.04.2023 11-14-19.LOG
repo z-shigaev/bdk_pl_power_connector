@@ -1,0 +1,96 @@
+Removed Pin From Net: NetName=PL_POWER_CH1 Pin=X1-1
+Removed Pin From Net: NetName=PL_POWER_CH1 Pin=X1-2
+Removed Pin From Net: NetName=PL_POWER_CH2 Pin=X1-5
+Removed Pin From Net: NetName=PL_POWER_CH2 Pin=X1-6
+Removed Pin From Net: NetName=PL_POWER_CH3 Pin=X2-1
+Removed Pin From Net: NetName=PL_POWER_CH3 Pin=X2-2
+Removed Pin From Net: NetName=PL_POWER_CH4 Pin=X2-5
+Removed Pin From Net: NetName=PL_POWER_CH4 Pin=X2-6
+Added Component: Designator=R1_1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R1_2(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R2_2(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R3_2(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R4_1(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Component: Designator=R4_2(SMD_0805)
+Add component (AddParameter): Name = "Value"; Value = "0"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Назначение"; Value = "SMD-резистор"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Наименование"; Value = "ОСМ Р1-12"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Потребление, Вт"; Value = "0,001"; VariantName = "[No Variations]"
+Add component (AddParameter): Name = "Точность"; Value = "%"; VariantName = "[No Variations]"
+Added Pin To Net: NetName=PL_POWER_CH1 Pin=R1_1-1
+Added Pin To Net: NetName=PL_POWER_CH1 Pin=R1_2-1
+Added Pin To Net: NetName=PL_POWER_CH2 Pin=R2_1-1
+Added Pin To Net: NetName=PL_POWER_CH2 Pin=R2_2-1
+Added Pin To Net: NetName=PL_POWER_CH3 Pin=R3_1-1
+Added Pin To Net: NetName=PL_POWER_CH3 Pin=R3_2-1
+Added Pin To Net: NetName=PL_POWER_CH4 Pin=R4_1-1
+Added Pin To Net: NetName=PL_POWER_CH4 Pin=R4_2-1
+Added Pin To Net: NetName=NetR1_1_2 Pin=R1_1-2
+Added Pin To Net: NetName=NetR1_1_2 Pin=X1-1
+Added Net: Name=NetR1_1_2
+Added Pin To Net: NetName=NetR1_2_2 Pin=R1_2-2
+Added Pin To Net: NetName=NetR1_2_2 Pin=X1-2
+Added Net: Name=NetR1_2_2
+Added Pin To Net: NetName=NetR2_1_2 Pin=R2_1-2
+Added Pin To Net: NetName=NetR2_1_2 Pin=X1-5
+Added Net: Name=NetR2_1_2
+Added Pin To Net: NetName=NetR2_2_2 Pin=R2_2-2
+Added Pin To Net: NetName=NetR2_2_2 Pin=X1-6
+Added Net: Name=NetR2_2_2
+Added Pin To Net: NetName=NetR3_1_2 Pin=R3_1-2
+Added Pin To Net: NetName=NetR3_1_2 Pin=X2-1
+Added Net: Name=NetR3_1_2
+Added Pin To Net: NetName=NetR3_2_2 Pin=R3_2-2
+Added Pin To Net: NetName=NetR3_2_2 Pin=X2-2
+Added Net: Name=NetR3_2_2
+Added Pin To Net: NetName=NetR4_1_2 Pin=R4_1-2
+Added Pin To Net: NetName=NetR4_1_2 Pin=X2-5
+Added Net: Name=NetR4_1_2
+Added Pin To Net: NetName=NetR4_2_2 Pin=R4_2-2
+Added Pin To Net: NetName=NetR4_2_2 Pin=X2-6
+Added Net: Name=NetR4_2_2
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R1_1 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R1_2 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R2_1 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R2_2 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R3_1 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R3_2 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R4_1 OSM R1-12
+Added Member To Class: ClassName=brс_pl_power_adapter Member=Component R4_2 OSM R1-12
