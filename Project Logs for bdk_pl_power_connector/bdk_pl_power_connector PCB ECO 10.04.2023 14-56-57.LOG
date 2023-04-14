@@ -1,5 +1,0 @@
-Added Component: Designator=SN(Serial_number_v3)
-Add component (AddParameter): Name = "Назначение"; Value = "Место под нанесение серийного номера"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Наименование"; Value = "Место под нанесение серийного номера"; VariantName = "[No Variations]"
-Add component (AddParameter): Name = "Потребление, Вт"; Value = "0"; VariantName = "[No Variations]"
-Added Member To Class: ClassName=bdk_pl_power_connector Member=Component SN Место под нанесение серийного номера

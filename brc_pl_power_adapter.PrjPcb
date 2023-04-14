@@ -116,33 +116,89 @@ DItemRevisionGUID=
 GenerateClassCluster=0
 DocumentUniqueId=
 
+[GeneratedDocument1]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.DRR
+DItemRevisionGUID=
+
+[GeneratedDocument2]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.EXTREP
+DItemRevisionGUID=
+
+[GeneratedDocument3]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.G1
+DItemRevisionGUID=
+
+[GeneratedDocument4]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GBL
+DItemRevisionGUID=
+
+[GeneratedDocument5]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GBO
+DItemRevisionGUID=
+
+[GeneratedDocument6]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GBS
+DItemRevisionGUID=
+
+[GeneratedDocument7]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GM1
+DItemRevisionGUID=
+
+[GeneratedDocument8]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GTL
+DItemRevisionGUID=
+
+[GeneratedDocument9]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GTO
+DItemRevisionGUID=
+
+[GeneratedDocument10]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.GTS
+DItemRevisionGUID=
+
+[GeneratedDocument11]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.LDP
+DItemRevisionGUID=
+
+[GeneratedDocument12]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.REP
+DItemRevisionGUID=
+
+[GeneratedDocument13]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.RUL
+DItemRevisionGUID=
+
+[GeneratedDocument14]
+DocumentPath=Project Outputs for brc_pl_power_adapter\Gerbers\brc_pl_power_adapter\brc_pl_power_adapter.TXT
+DItemRevisionGUID=
+
 [Parameter1]
-Name=GlobalProjectName
-Value=Адаптер питания БРК-ПН
+Name=Утвердил
+Value=Прокопьев
 
 [Parameter2]
-Name=GlobalProjectNumber
-Value=ЮМП ...
+Name=Разработал
+Value=Шигаев
 
 [Parameter3]
-Name=GlobalProjectRevision
-Value=1.0
+Name=Проверил
+Value=Стюф
 
 [Parameter4]
 Name=oraganization
 Value=НГУ
 
 [Parameter5]
-Name=Проверил
-Value=Стюф
+Name=GlobalProjectRevision
+Value=1.0
 
 [Parameter6]
-Name=Разработал
-Value=Шигаев
+Name=GlobalProjectNumber
+Value=ЮМП.050.121.550
 
 [Parameter7]
-Name=Утвердил
-Value=Прокопьев
+Name=GlobalProjectName
+Value=Адаптер питания БРК-ПН
 
 [Configuration1]
 Name=Sources

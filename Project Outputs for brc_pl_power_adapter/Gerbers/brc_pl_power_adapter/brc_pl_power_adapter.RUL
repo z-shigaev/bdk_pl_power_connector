@@ -1,0 +1,5 @@
+DRC Rules Export File for PCB: C:\YandexDisk\Work\Devices\Unsorted\Norby_brc_pl_power_adapter\brc_pl_power_adapter\brc_pl_power_adapter\brñ_pl_power_adapter.PcbDoc
+RuleKind=SolderMaskExpansion|RuleName=SolderMaskExpansion|Scope=Board|Minimum=4.00
+RuleKind=Width|RuleName=Width|Scope=Board|Minimum=0.04
+RuleKind=Clearance|RuleName=Clearance|Scope=Board|Minimum=10.00
+RuleKind=ShortCircuit|RuleName=ShortCircuit|Scope=Board|Allowed=0

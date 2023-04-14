@@ -1,0 +1,12 @@
+Output: NC Drill Files
+Type  : NC Drill
+From  : PCB Document [brñ_pl_power_adapter.PcbDoc]
+   Generated File[brc_pl_power_adapter.TXT]
+   Generated File[brc_pl_power_adapter.LDP]
+   Generated File[brc_pl_power_adapter.DRR]
+
+
+Files Generated   : 3
+Documents Printed : 0
+
+Finished Output Generation At 15:36:41 On 14.04.2023
