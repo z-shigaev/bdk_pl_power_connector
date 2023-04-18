@@ -9,4 +9,4 @@ From  : PCB Document [brñ_pl_power_adapter.PcbDoc]
 Files Generated   : 3
 Documents Printed : 0
 
-Finished Output Generation At 15:36:41 On 14.04.2023
+Finished Output Generation At 16:27:55 On 18.04.2023
